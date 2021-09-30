@@ -15,6 +15,7 @@ const Reviews = () => {
               className="mx-2"
               src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
               width="10%"
+              alt="person"
             />
           </span>
         </span>{" "}
